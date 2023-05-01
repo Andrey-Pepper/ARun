@@ -1,0 +1,12 @@
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\bin\Debug\ARun.exe.config
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\bin\Debug\ARun.exe
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\bin\Debug\ARun.pdb
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.csproj.AssemblyReference.cache
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.NewApp.resources
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.Properties.Resources.resources
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.Settings.resources
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.csproj.GenerateResource.cache
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.exe
+C:\Users\Andrey Pepper\Desktop\repo\VS Code\ARun\ARun\obj\Debug\ARun.pdb
